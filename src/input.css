@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .h2{
-    @apply text-[30px] xl:text-[44px] font-semibold capitalize traking-[0.44px];
+    @apply text-[30px] xl:text-[44px] font-semibold capitalize tracking-[0.44px];
 }
 
 .h3{
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .btn{
-    @apply rounded-full uppercase traking-[1.02px] flex items-center justify-center transition-all;
+    @apply rounded-full uppercase tracking-[1.02px] flex items-center justify-center transition-all;
 }
 
 .btn-sm{
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6{
     @apply bg-white text-secondary hover:bg-white/90;
 }
 
-btn-outline{
+.btn-outline{
     @apply bg-transparent border-2 border-accent text-secondary hover:bg-accent
     hover:border-transparent hover:text-white;
 }
