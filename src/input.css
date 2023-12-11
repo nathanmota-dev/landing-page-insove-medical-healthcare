@@ -73,3 +73,8 @@ h1, h2, h3, h4, h5, h6{
 .faq__item.open .faq__answer{
     @apply h-full;
 }
+
+.bg-services {
+    background-image: url('../assets/img/services/bg.svg');
+    @apply bg-no-repeat bg-right-top bg-cover;
+}
