@@ -1,6 +1,10 @@
 # 🌡 Landing Page Insove Medical Healthcare
 
-Landing Page feita utilizando o framework [TailwindCSS](https://tailwindcss.com/) projetada para consultórios médicos onde o objetivo foi proporcionar uma boa experiência tanto para os profissionais de saúde quanto para seus pacientes.
+Landing Page feita utilizando o framework TailwindCSS projetada para consultórios médicos onde o objetivo foi proporcionar uma boa experiência tanto para os profissionais de saúde quanto para seus pacientes.
+
+![Captura do projeto](/assets/img/readme/Capture.JPG)
+
+[Deploy](https://insove-medical-healthcare.netlify.app/)
 
 ### 🔨 Tecnologias utilizadas
 

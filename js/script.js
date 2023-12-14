@@ -54,3 +54,56 @@ faqItems.forEach((item) => {
         }
     });
 });
+
+//Scroll animations
+
+const sr = ScrollReveal({
+
+    origin: 'bottom',
+    distance: '60px',
+    duration: 3000,
+    delay: 600,
+});
+
+sr.reveal('.heroText'), { origin: 'top' };
+sr.reveal('.heroImg');
+
+sr.reveal('.statsItem', {
+    delay: 600,
+    distance: '100px',
+    interval: 100,
+    origin: 'top',
+});
+
+sr.reveal('.services');
+sr.reveal('.serviceTop');
+sr.reveal('.servicesItem', {
+    delay: 600,
+    distance: '100px',
+    interval: 100,
+    origin: 'bottom',
+});
+
+sr.reveal('.appointmentTitle');
+sr.reveal('appointmentForm');
+
+sr.reveal('.testimonials');
+sr.reveal('.testimonialContainer');
+
+sr.reveal('.faqTitle');
+sr.reveal('.faqItem', {
+    delay: 600,
+    distance: '100px',
+    interval: 100,
+    origin: 'bottom',
+});
+
+sr.reveal('.newsletter');
+sr.reveal('.newsletterContainer');
+
+sr.reveal('.footerItem', {
+    delay: 600,
+    distance: '100px',
+    interval: 100,
+    origin: 'bottom',
+});

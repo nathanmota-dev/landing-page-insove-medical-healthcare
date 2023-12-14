@@ -630,6 +630,11 @@ video {
   z-index: 20;
 }
 
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -638,11 +643,6 @@ video {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.mx-2 {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
 }
 
 .mb-10 {
@@ -723,14 +723,6 @@ video {
 
 .h-screen {
   height: 100vh;
-}
-
-.max-h-\[98\%\] {
-  max-height: 98%;
-}
-
-.min-h-\[98\%\] {
-  min-height: 98%;
 }
 
 .w-8 {
@@ -838,6 +830,11 @@ video {
   gap: 14px;
 }
 
+.gap-x-14 {
+  -moz-column-gap: 3.5rem;
+       column-gap: 3.5rem;
+}
+
 .gap-x-2 {
   -moz-column-gap: 0.5rem;
        column-gap: 0.5rem;
@@ -885,11 +882,6 @@ video {
 
 .gap-y-6 {
   row-gap: 1.5rem;
-}
-
-.gap-x-14 {
-  -moz-column-gap: 3.5rem;
-       column-gap: 3.5rem;
 }
 
 .self-start {
@@ -1075,20 +1067,12 @@ video {
   padding-top: 3rem;
 }
 
-.pt-7 {
-  padding-top: 1.75rem;
-}
-
-.pb-40 {
-  padding-bottom: 10rem;
-}
-
-.pt-10 {
-  padding-top: 2.5rem;
-}
-
 .pt-20 {
   padding-top: 5rem;
+}
+
+.pt-7 {
+  padding-top: 1.75rem;
 }
 
 .text-center {
@@ -1154,10 +1138,6 @@ video {
   letter-spacing: 2.24px;
 }
 
-.tracking-\[\] {
-  letter-spacing: ;
-}
-
 .text-\[\#4c5354\] {
   --tw-text-opacity: 1;
   color: rgb(76 83 84 / var(--tw-text-opacity));
@@ -1191,19 +1171,6 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-\[\#4c5\] {
-  --tw-text-opacity: 1;
-  color: rgb(68 204 85 / var(--tw-text-opacity));
-}
-
-.text-\[\] {
-  color: ;
-}
-
-.text-\[\#9ab4\] {
-  color: #9ab4;
 }
 
 .shadow-2xl {
