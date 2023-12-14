@@ -4,7 +4,9 @@ Landing Page feita utilizando o framework TailwindCSS projetada para consultóri
 
 ![Captura do projeto](/assets/img/readme/Capture.JPG)
 
-[Deploy](https://insove-medical-healthcare.netlify.app/)
+### 🎉 Deploy
+
+[Link do Deploy](https://insove-medical-healthcare.netlify.app/)
 
 ### 🔨 Tecnologias utilizadas
 
@@ -12,6 +14,10 @@ Landing Page feita utilizando o framework TailwindCSS projetada para consultóri
 - `Remix Icons` - [Remix Icons](https://www.jsdelivr.com/package/npm/remixicon/)
 - `SwiperJS` - [Swiper](https://swiperjs.com/)
 - `Scroll Reveal` - [Scroll Reveal](https://scrollrevealjs.org/)
+
+### 🎨 Design Sugerido
+
+[Design Sugerido](https://templatesjungle.com/downloads/insove-medical-healthcare-free-figma-website-template/)
 
 ### Recursos Adicionais
 
